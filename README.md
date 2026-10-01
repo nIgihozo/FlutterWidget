@@ -1,6 +1,8 @@
-# AppBar Widget
+# AppBar Widget 
 
-A new Flutter project.
+An `AppBar`: is a top toolbar used in Flutter to display app branding, page titles, navigation, and quick action buttons.
+
+In this project we provided a simple real-world profile screen demonstrating the Flutter `AppBar` widget.
 
 ## Getting Started
 
@@ -16,7 +18,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-A simple real-world profile screen demonstrating the Flutter `AppBar` widget.
+
 
 ## How to Run
 1. Clone this repository.
